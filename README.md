@@ -104,3 +104,68 @@ Tipo de análise que vai prever o próximos números, tenta criar um cenário fu
 > Análise prescritiva 
 
 Prescrição para o time de negócios o passo a passo de decisões para a empresa tomar para cumprir seus objetivos 
+
+
+## Criando Portfolio 
+
+- Resolver problemas reais de Ciência de dados ou Análise de dados
+- Não considerar datasets de aprendizagem: Titanic, Iris, Wine
+- Diversifique seu portfólio de projetos
+- Use diferentes tecnologias e frameworks
+
+### Projeto 1: Análise exploratória 
+
+> 1 - Entender o problema
+
+- Explicar o problema com detalhes
+- Mostrar as principais causas dos problemas
+
+> 2 - Coletar dados
+
+- Kaggle
+- Sites de órgãos públicos
+
+> 3 - Tratamento dos dados
+
+- Limpeza dos dados
+- Remoção de ruídos
+- Transformação e seleção de features
+
+> 4 Análise exploratória
+
+- Gerar hipóteses
+- Validar as hipóteses usando os dados
+- Construir visualizações
+
+
+### Projeto 2: Análise de risco
+
+> Datasets
+
+- Kaggle: Home credit default risk
+
+### Projetos 3: Engenharia de dados
+
+- Pegar um banco de dados relacional e usando python criar diferentes tabalas, adicionar informações no banco de dados e fazer um webscrapping
+
+### Projeto 4: Sistemas de recomendação
+- Clusterização
+- Datasets kaggle: OLIST, REES46
+
+### Projeto 5: Dashboards
+
+- Dashboard com storytelling 
+- Streamlit
+- Plotly Dash
+- Ipywidgets
+- Yolo v3
+
+### Projeto 6: Séries temporais
+
+- Previsão da quantidade de vendas
+- Previsão de estoque de loja,qual produto eu devo comprar mais em qual epóca do ano
+- Detecção de anomalias, analise de eletrocardiogramas 
+- datasets kaggle: DJIA 30 STOCK TIME SERIES
+
+### Projeto 7: Dados geoepaciais 
+- Criar um dashboard onde você vai pegar dados do governo e mostrar as regiões que tem mais roubo
