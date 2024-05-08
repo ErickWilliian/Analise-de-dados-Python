@@ -29,3 +29,8 @@ No exemplo desse repositório vamos usar arquivos excel então vamos baixar o Op
 - Dentro da IDE inicie o jupyter dando o comando `jupyter notebook` no terminal, fazendo isso ele vai abrir uma pagina no navegador onde você vai poder editar e criar códigos python
 
 - A partir daqui você vai seguir o arquivo <a href="main.ipynb">Main</a>
+
+
+
+
+
