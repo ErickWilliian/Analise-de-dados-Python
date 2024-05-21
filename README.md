@@ -4,7 +4,7 @@
 
 - Estatística e probabilidade, distribuição, entender correlação, clustering, regressão linear e logística, classificação e vies
 - Livro: Estatística o que é pra que serve como funciona, Estatística prática para cientistas de dados
-- Meto dologias de mensuração  
+- Metodologias de mensuração  
 - Conhecimento de A/B testing
 - Randomized control 
 - Modelagem

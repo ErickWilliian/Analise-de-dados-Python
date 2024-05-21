@@ -257,3 +257,47 @@ Facilita na manipulação dos dados pois no ETL quando você faz a transformaç�
 - Ele preenche a lacuna entre os dados e a tomada de decisão
 
 Então de certa forma ele permite que você crie **Análise descritivas**, **Relatórios** e **Dashboards**
+
+
+## Análise de dados com Power BI
+
+### Inteligencia de Negócios 
+
+Aqui estão os blocos de construção básicos no Power BI
+
+- Visualizações
+- Conjuntos de dados
+- Relatórios 
+- Painéis
+- Blocos
+
+### Gráficos 
+
+> Gráfico de barras
+
+Muito utilizado para mostrar agrupamento de dados
+
+<img src="./src/barras.png"/>
+
+
+> Linha
+
+Usado para ver tendencias ao longo do tempo
+
+<img src="./src/linha.png"/>
+
+> Treemap
+
+Usada para visualizar dados, quando maior o retângulo, maior o valor numérico dele. Treemaps pode responder perguntas sobre seus dados como, Quais são as proporções de categorias para o total?
+
+<img src="./src/treemap.png" />
+
+> Funil
+
+- Usado quando se tem uma base de dados pequena
+
+> Gráfico de dispersão
+
+- Serve para exibir muitos dados relacionados em um gráfico. Em gráficos de dispersão, o eixo x exibe um campo numérico e o eixo y exibe outro, facilitando a visualização da relação entre os dois valores de todos os itens do gráfico.
+
+> Dica de ferramenta
